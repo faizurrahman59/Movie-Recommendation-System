@@ -31,8 +31,7 @@ The purpose of a recommendation system is to find content that is interesting to
 ## About This Project
 This is a **Streamlit web application** that recommends movies based on user interests.  
 
-- **Demo:** [Link to live demo]  
-- **Dataset:** [Dataset link]  
+- **Dataset:** TMDB 5000 movies  
 - **Model:** Precomputed similarity matrix using **cosine similarity**.
 
 ### Cosine Similarity
